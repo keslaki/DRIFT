@@ -17,12 +17,13 @@ This project demonstrates the use of DRIFT (Data Reduction via Informative Featu
 
 ```bash
 pip install -r requirements.txt
-python drift_mnist.py
+python drift_CIFAR100.py
+the same for the plot .py file
 ```
 
 ## Configuration
 
-Modify the `CONFIG` variable in `drift_mnist.py` to change hidden layers, number of modes, epochs, etc.
+Modify the `CONFIG` variable in `drift_CIFAR100.py` to change hidden layers, number of modes, epochs, etc.
 
 ## Requirements
 
