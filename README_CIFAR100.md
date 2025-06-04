@@ -57,11 +57,11 @@ pip install tensorflow numpy pandas matplotlib scikit-learn
 
 ## Usage
 
-1. **Clone this repository** and copy the code into a Python script (e.g., `main.py`).
+1. **Clone this repository** and copy the code into a Python script (e.g., `drift_CIFAR100.py`).
 
 2. **Run the script**:
    ```bash
-   python main.py
+   python drift_CIFAR100.py
    ```
 
 3. **Output**:
